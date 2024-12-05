@@ -1,4 +1,4 @@
-## Hi there 👋
+## Reimanbou 🐠
 
 <!--
 **Reimanbow/Reimanbow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,4 +32,15 @@ Here are some ideas to get you started:
     <img height="20" src="https://badgen.org/img/zenn/keichan_15/articles?style=plastic" />
   </a>
 </p>
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reimanbow&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Reimanbow&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Reimanbow&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Reimanbow&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Reimanbow&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Reimanbow&theme=gruvbox)
+
 
