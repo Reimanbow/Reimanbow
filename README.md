@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </p>
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,bash,vim,linux.ubuntu,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,bash,vim,linux,ubuntu,raspberrypi)](https://skillicons.dev)
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reimanbow&theme=gruvbox)
