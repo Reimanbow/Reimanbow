@@ -33,6 +33,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,bash,vim,linux.ubuntu,raspberrypi)](https://skillicons.dev)
+
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reimanbow&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Reimanbow&theme=gruvbox)
